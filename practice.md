@@ -1,3 +1,10 @@
+# practice
+## week 4
+### Markdown & LaTeX
+
+If you want to make something **bold**
+if you wish to <u>underline</lu>
+
 click [here](https://raw.githubusercontent.com/ylu137/hw4/main/transplants.txt) to view dataset
 
 
